@@ -190,6 +190,8 @@ To have a complete list of telegram bots (without source) have a look at [@botli
  - [@usdrub_bot](https://t.me/usdrub_bot) -> [Source](https://github.com/m4rr/money_bot)
 
 ### Rust
+ - [@airnope_bot](https://t.me/airnope_bot) -> [Source](https://github.com/cuducos/airnope)
+ - [@bot_na_lista_bot](https://t.me/bot_na_lista_bot) -> [Source](https://github.com/cuducos/bot-na-lista)
  - [@TelereadsBot](https://t.me/TelereadsBot) -> [Source](https://github.com/harababurel/telereads)
 
 ### Elixir
